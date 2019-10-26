@@ -1,0 +1,79 @@
+/*
+Theme Name: Hash Blog
+Theme URI: https://github.com/narenrathod/hashblog
+Author: Rathod Narendrasinh
+Author URI: https://github.com/narenrathod
+Description: hashBlog is free responsive pure WordPress blog, magazine and news theme. hashBlog is an awesome to display your website very beautiful and good looking. hashBlog is editable and super flexible new functionality. The theme has nice, beautiful and professional layouts. This theme is made for any search engine, SEO Compatible. hashBlog is a totally responsive. Html5 and css3 based coded. It is the blog and magazine theme you case to use for the magazine and blog websites. This is blog theme and it design for all blogers who wanted to make a blogging site. This a free theme for wordpress website. It is mobile and tablet responsive theme. 
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: hashblog
+Tags: grid-layout,footer-widgets
+*/
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+.gallery-caption {
+  display: block;
+  font-size: 0.71111em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0.5rem;
+}
+.bypostauthor {
+	
+}
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
